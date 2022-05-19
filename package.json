@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rodrigobotti/staart-intro-node/issues"
   },
-  "homepage": "https://github.com/rodrigobotti/staart-intro-node#readme"
+  "homepage": "https://github.com/rodrigobotti/staart-intro-node#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "csv-parse": "^5.0.4"
+  }
 }
